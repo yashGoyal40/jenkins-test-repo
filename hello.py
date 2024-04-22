@@ -1,2 +1,2 @@
-print("hello duniya virsion 2")
+print("hello duniya version 2")
 
