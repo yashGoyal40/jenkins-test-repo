@@ -1,2 +1,2 @@
-prin("hello duniya version 5")
+print("hello duniya version 5")
 
